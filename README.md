@@ -12,7 +12,8 @@ terminal mode.
 
 # Usage
 
-The snippet below shows an example that escapes terminal mode by <kbd>Esc</kbd> key.
+The snippet below shows an example that escapes from terminal mode by
+<kbd>Esc</kbd> key.
 
 ```zsh
 bindkey -a "^[" _zsh_nvim_quit
